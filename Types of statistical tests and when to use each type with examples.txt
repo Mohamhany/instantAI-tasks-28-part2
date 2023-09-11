@@ -1,0 +1,27 @@
+Types of statistical tests and when to use each type with examples
+There are various types of statistical tests, each designed to address specific research questions and analyze different types of data. Here are some commonly used statistical tests, along with examples of when to use each type:
+1. t-Test:
+* Use: The t-test is used to compare means between two groups or conditions when the data are continuous and approximately normally distributed.
+* Example: A t-test can be used to compare the mean test scores of students who received a new teaching method versus those who received the traditional teaching method.
+2. Analysis of Variance (ANOVA):
+* Use: ANOVA is used to compare means among three or more groups or conditions when the data are continuous and approximately normally distributed.
+* Example: ANOVA can be used to compare the mean scores of students across different grade levels (e.g., 1st grade, 2nd grade, 3rd grade) to determine if there are significant differences.
+3. Chi-Square Test:
+* Use: The chi-square test is used to assess the association between two categorical variables and determine if they are independent.
+* Example: A chi-square test can be used to examine if there is a relationship between smoking status (categories: smoker, non-smoker) and the occurrence of a respiratory disease (categories: present, absent).
+4. Pearson's Correlation:
+* Use: Pearson's correlation is used to measure the strength and direction of the linear relationship between two continuous variables.
+* Example: Pearson's correlation can be used to examine the relationship between age and blood pressure to determine if there is a significant correlation.
+5. Regression Analysis:
+* Use: Regression analysis is used to model and analyze the relationship between a dependent variable and one or more independent variables.
+* Example: Regression analysis can be used to predict a person's salary based on variables such as years of education, years of experience, and job title.
+6. Mann-Whitney U Test:
+* Use: The Mann-Whitney U test, also known as the Wilcoxon rank-sum test, is a non-parametric test used to compare the distributions of two independent groups when the data are not normally distributed.
+* Example: The Mann-Whitney U test can be used to compare the median test scores between two different schools.
+7. Kruskal-Wallis Test:
+* Use: The Kruskal-Wallis test is a non-parametric test used to compare the distributions of three or more independent groups when the data are not normally distributed.
+* Example: The Kruskal-Wallis test can be used to compare the median income levels among different employment sectors (e.g., healthcare, finance, education).
+8. Fisher's Exact Test:
+* Use: Fisher's exact test is used to assess the association between two categorical variables when the sample size is small.
+* Example: Fisher's exact test can be used to examine if there is an association between gender (categories: male, female) and the presence of a particular medical condition (categories: yes, no) in a small sample population.
+
