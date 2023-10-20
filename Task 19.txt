@@ -1,0 +1,10 @@
+Task 19
+1- How to read MongoDB (json objects)?
+1. Install the PyMongo library if you haven't already
+2. Import the necessary libraries
+3. Set up a connection to your MongoDB server using the MongoClient class
+4. Access the desired database and collection in MongoDB
+5. Query the collection and retrieve the JSON objects
+2- What is difference between relational database, non-relational database?
+1- A relational database is one that stores data in tables. The relationship between each data point is clear and searching through those relationships is relatively easy. The relationship between tables and field types is called a schema. For relational databases, the schema must be clearly defined.
+2-  non-relational database is any database that does not use the tabular schema of rows and columns like in relational databases. Rather, its storage model is optimized for the type of data it’s storing.
