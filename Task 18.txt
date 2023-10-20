@@ -1,0 +1,20 @@
+Task 18
+1-dataframe_name.sort_index(axis=0), dataframe_name.sort_index(axis=1)
+2- a small anonymous function that can take any number of arguments and execute an expression. lambda expressions are utilized to construct anonymous functions. You can create one by using the lambda keyword.
+3- Detecting Outliers:
+One common approach to detecting outliers is using the z-score method. The z-score measures how many standard deviations an observation is from the mean. Observations with a z-score above a certain threshold can be considered outliers. Here's an example of how to calculate the z-score for each data point
+Removing Outliers:
+If you want to remove outliers from your DataFrame, you can replace them with either NaN or delete the rows altogether. Here's an example of how to replace outliers with NaN
+4- Randomly select a single row: df = df.sample(),
+Randomly select a specified number of rows : df = df.sample(n=3)
+
+5- merge() function is used to merge multiple Dataframes
+6- replace() function is used to replace values in column
+7- we first create two sample DataFrames (df1 and df2). Then, we create an ExcelWriter object with the desired output file name (output.xlsx in this case).
+Next, we use the to_excel() method to write each DataFrame to a separate sheet in the Excel file. The sheet_name parameter is used to specify the name of the sheet.
+Finally, we save the Excel file using the save() method of the ExcelWriter object.
+
+
+
+
+
